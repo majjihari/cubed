@@ -18,3 +18,5 @@ funnelmart-*
 cubed-*
 rhel*
 /schemas
+config.bat
+node_modules
